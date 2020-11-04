@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/sing">
+        <file>song/01 - 林俊傑 - 最向往的地方.mp3</file>
+        <file>song/01.mp3</file>
+        <file>song/04 - 林俊傑 - 离开的那一些.mp3</file>
+        <file>song/05 - 林俊傑 - 最好是.mp3</file>
+    </qresource>
+</RCC>
